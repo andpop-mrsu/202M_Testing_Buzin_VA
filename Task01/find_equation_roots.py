@@ -21,4 +21,3 @@ def find_equation_roots(a, b, c):
         return []
     
 
-print(find_equation_roots(12, 9, -3))
